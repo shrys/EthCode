@@ -1,6 +1,6 @@
-# <center>:page_facing_up:EthCode</center>
+# <h1 align="center">:page_facing_up:EthCode</h1>
 
-<center>ethereum related examples</center>
+<p align="center">ethereum related examples</p>
 
 ## folders
 
@@ -19,7 +19,7 @@ code to run on [remix online ide](http://remix.ethereum.org)
    1. click getMessage to get the message value
    2. enter value "in quotes" to use setMessage
 
-#### reference links
+## reference links
 
 - [gas cost estimations](https://docs.google.com/spreadsheets/d/1n6mRqkBz3iWcOlRem_mO09GtSKEKrAsfO7Frgx18pNU/edit) for gasPrice (amount willing to pay for operations for each gas unit) and gasLimit (limit of maount to be spent)
 - 12 mnemonic word [converter](https://iancoleman.io/bip39/) to retrieve accounts
