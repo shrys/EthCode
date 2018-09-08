@@ -30,3 +30,4 @@ ganache, mocha used for writing test modules.
 - [gas cost estimations](https://docs.google.com/spreadsheets/d/1n6mRqkBz3iWcOlRem_mO09GtSKEKrAsfO7Frgx18pNU/edit) for gasPrice (amount willing to pay for operations for each gas unit) and gasLimit (limit of maount to be spent)
 - 12 mnemonic word [converter](https://iancoleman.io/bip39/) to retrieve accounts
 - [faucet](https://faucet.rinkeby.io/) for request test ether for rinkeby network
+- [check](https://rinkeby.etherscan.io/) what your deployd cotract is doing in the network
