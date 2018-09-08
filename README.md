@@ -19,13 +19,12 @@ code to run on [remix online ide](http://remix.ethereum.org)
    1. click getMessage to get the message value
    2. enter value "in quotes" to use setMessage
 
-<<<<<<< HEAD
 ### inbox
 
 code for inbox contract. using solc dependency in compile.js, inbox contract file is fetched and compiled. inbox is then saved into module.exports.
 
-=======
->>>>>>> 2d4e2b142067ad17da077f5ae1d2b5f0d0d1f2b1
+ganache, mocha used for writing test modules.
+
 ## reference links
 
 - [gas cost estimations](https://docs.google.com/spreadsheets/d/1n6mRqkBz3iWcOlRem_mO09GtSKEKrAsfO7Frgx18pNU/edit) for gasPrice (amount willing to pay for operations for each gas unit) and gasLimit (limit of maount to be spent)
